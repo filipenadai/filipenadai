@@ -9,7 +9,14 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=filipenadai&show_icons=true" alt="filipenadai"/> 
+</p>
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipenadai&show_icons=true&theme=dark" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipenadai&theme=dark&langs_count=8" />
 </p>
 
 > "I have no special talent.I am only passionately curious" - Albert Einstein
