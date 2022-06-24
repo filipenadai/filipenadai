@@ -1,7 +1,5 @@
 <h1 align="center">I'm Nadai</h1>
 
-<p align="center">Passionate about knowledge. I live to learn new things every day.</p>
-
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
